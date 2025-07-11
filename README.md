@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="URL_TO_YOUR_CHELSEA_BANNER.gif" alt="Banner Sân vận động Stamford Bridge hoặc Chelsea" width="800"/>
-  </p>
+
 
 <div align="center">
   <h1>⚽ Kamekain's Pitch ⚽</h1>
@@ -13,9 +11,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="URL_TO_YOUR_FOOTBALL_GIF_1.gif" width="300" alt="Ảnh GIF Bóng đá vui 1"/>
-  </p>
 
 ---
 
@@ -75,11 +70,7 @@
        🕹️ <strong>Hobbies:</strong> Gaming | 📰 News | ⚽ Football (<strong>Chelsea FC!</strong> 💙) | 🏸 Badminton
      </td>
   </tr>
-  <tr>
-    <td colspan="3" align="center" style="background-color: #034694; color: white; padding: 12px; border-bottom-left-radius: 12px; border-bottom-right-radius: 12px; font-style: italic;">
-      "Code with Passion, Play with Heart!"
-    </td>
-  </tr>
+
 </table>
 </div>
 
